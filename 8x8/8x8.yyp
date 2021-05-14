@@ -7,6 +7,7 @@
     {"id":{"name":"SpriteBorder","path":"sprites/SpriteBorder/SpriteBorder.yy",},"order":1,},
     {"id":{"name":"SpriteClaw","path":"sprites/SpriteClaw/SpriteClaw.yy",},"order":2,},
     {"id":{"name":"ObjectClaw","path":"objects/ObjectClaw/ObjectClaw.yy",},"order":2,},
+    {"id":{"name":"ObjectSlider","path":"objects/ObjectSlider/ObjectSlider.yy",},"order":4,},
     {"id":{"name":"ObjectAnchor","path":"objects/ObjectAnchor/ObjectAnchor.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
